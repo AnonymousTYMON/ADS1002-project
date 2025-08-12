@@ -26,7 +26,7 @@
       <li>Go through the shared doc on research questions and select your top 5 by the scheduled meeting</li>
       <li>Process data for your selected state (merge all weather and demand data for selected state + drop invalid values):</li>
       <pre>
-        <li>Harjask: QLD</li>
+        <li>Harjas: QLD</li>
         <li>Jiehni: VIC</li>
         <li>Rohan: NSW</li>
         <li>Tymon: TAS</li>
