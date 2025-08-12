@@ -22,7 +22,7 @@
   <div>
     <h2>Week 3 Deliverables</h2>
     <ul>
-      <li>Fill in the schej by eod 12.08.25: </li>
+      <li>Fill in the schej by eod 12.08.25: https://timeful.app/e/DDEBd</li>
       <li>Go through the shared doc on research questions and select your top 5 by the scheduled meeting</li>
       <li>Process data for your selected state (merge all weather and demand data for selected state + drop invalid values):</li>
       <pre>
