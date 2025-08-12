@@ -9,7 +9,7 @@
   <div>
     <h2>Research Questions</h2>
     <ul>
-      <li>Harjask: </li>
+      <li>Harjas: </li>
       <li>Jiehni: </li>
       <li>Rohan: </li>
       <li>Tymon: </li>
