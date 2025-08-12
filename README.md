@@ -29,7 +29,7 @@
         <li>Harjask: QLD</li>
         <li>Jiehni: VIC</li>
         <li>Rohan: NSW</li>
-        <li>Tymon: WA</li>
+        <li>Tymon: TAS</li>
         <li>Guanyu: SA</li>
       </pre>
       <p>Note: if scheduled meeting is on or after Saturday 16.08.25, please have your processed data ready and uploaded to the github repo</p>
