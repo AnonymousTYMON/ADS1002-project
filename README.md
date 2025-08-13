@@ -1,38 +1,19 @@
 # ADS1002-project
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p>This project aims to discover the relationship between weather and energy usage in Australia.</p>
+    <p>This project analyses the relationship between electricity demand and weather variables across Australian states using 20 years of data. Our goals are to identify key drivers of demand, explore extreme weather effects, and investigate demand–price relationships.</p>
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h2>Research Questions</h2> https://docs.google.com/document/d/1hWCTJQosssMUyQ258MsTiu8ROZ05oefblSVQ0v5UlSs/edit?usp=sharing
+    <h2>Research Questions</h2>
     <ul>
       <li>Harjas: </li>
       <li>Jiehni: </li>
       <li>Rohan: </li>
       <li>Tymon: </li>
       <li>Guanyu: </li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h2>Week 3 Deliverables</h2>
-    <ul>
-      <li>Fill in the schej by eod 12.08.25: https://timeful.app/e/DDEBd</li>
-      <li>Go through the shared doc on research questions and select your top 5 by the scheduled meeting</li>
-      <li>Process data for your selected state (merge all weather and demand data for selected state + drop invalid values):</li>
-      <pre>
-        <li>Harjas: QLD</li>
-        <li>Jiehni: VIC</li>
-        <li>Rohan: NSW</li>
-        <li>Tymon: TAS</li>
-        <li>Guanyu: SA</li>
-      </pre>
-      <p>Note: if scheduled meeting is on or after Saturday 16.08.25, please have your processed data ready and uploaded to the github repo</p>
     </ul>
   </div>
 </div>
